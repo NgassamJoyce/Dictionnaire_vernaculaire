@@ -1,7 +1,7 @@
 let dictionnaire = {};
 
 
-fetch("dictio.json")
+fetch("/Asset/Data/dictio.json")
 
     .then(response => response.json())
     .then(data => {
@@ -25,7 +25,7 @@ fetch("dictio.json")
 
         });
 
-        input.addEventListener("keydown", function(event) {
+        input.addEventListener("keypress", function(event) {
         if(event.key === "Enter"){  
         bouton.click();          
     }
