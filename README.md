@@ -25,8 +25,8 @@ OR
 - Open the project with your preferred editor (e.g., VSCode)
 
 - If using VSCode, right-click on dictio.html → Open with Live Server to launch the dictionary in your browser.
-- 
- ### Languages & Technologies:
+  
+### Languages & Technologies:
 <div align="left">
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"/>
    <img width="12" />
