@@ -6,6 +6,7 @@ fetch("/Asset/Data/dictio.json")
     .then(response => response.json())
     .then(data => {
         dictionnaire = data;
+        console.log("Dictionnaire chargé");
 
         const input = document.getElementById("mot");
         const bouton = document.getElementById("btn");
@@ -13,7 +14,7 @@ fetch("/Asset/Data/dictio.json")
 
         bouton.addEventListener("click", function() {
 
-            const motUtilisateur = input.value.toLowerCase();
+            const motUtilisateur = input.value.toLowerCase().trim();
 
             if(dictionnaire[motUtilisateur]){
 
