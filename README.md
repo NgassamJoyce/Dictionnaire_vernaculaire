@@ -1,18 +1,21 @@
-## FRENCH -> BANGANTE DICTIONARY ##
+##  🇫🇷 FRENCH  -> 📖 MEDUMBA DICTIONARY ##
 
 <img width="1279" height="659" alt="Capture d’écran du 2026-02-26 04-01-22" src="https://github.com/user-attachments/assets/5f1ed17b-7f51-4ebf-b7fa-12c8b95a3d93" />
 
-
 ## Description:
-This dictionary is designed to help users understand the pronunciation of certain French words in Bangante.
-It is simple, user-friendly, and accessible to everyone.
+This dictionary is designed to help users improve their knowledge of the Medumba language by providing the pronunciation of certain words.
+Through this dictionary, many users will be able to learn the pronunciation and spelling of some French words in Medumba.
+
+It explains the origin of the Medumba language. It details how words are constructed, structured, and how they are pronounced through different tones. while, About.html provides details and explains the different tones found in the Medumba language, and how to distinguish them within words..
+
+<img width="1279" height="659" alt="Capture d’écran du 2026-02-26 04-01-30" src="https://github.com/user-attachments/assets/b52ca8b1-619d-4d4f-a3bd-f678b2c249ba" />
 
 ## Installation:
 - Open your terminal.
 
 - Clone the repository:
 
-- git clone https://github.com/NgassamJoyce/Mon_Dictionnaire.git
+- git clone https://github.com/NgassamJoyce/Dictionnaire_vernaculaire.git
 
 - Navigate to the project folder, then:
 
@@ -27,7 +30,7 @@ OR
 
 - Enter a French word in the field "Entrez votre mot français"
 
-- Click the "Traduction" button
+- Click  "Enter" or "loupe button"
 
 - The translated word will immediately appear at the bottom of the page.
 
