@@ -1,6 +1,7 @@
 ## FRENCH -> BANGANTE DICTIONARY ##
 
-<img width="1270" height="659" alt="Capture d’écran du 2026-02-25 00-41-34" src="https://github.com/user-attachments/assets/72c84fd8-da77-4f80-a4c3-71363af4f583" />
+<img width="1279" height="659" alt="Capture d’écran du 2026-02-26 04-01-22" src="https://github.com/user-attachments/assets/5f1ed17b-7f51-4ebf-b7fa-12c8b95a3d93" />
+
 
 ## Description:
 This dictionary is designed to help users understand the pronunciation of certain French words in Bangante.
