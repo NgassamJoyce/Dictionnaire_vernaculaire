@@ -1,4 +1,4 @@
-##  🇫🇷 FRENCH  -> 📖 MEDUMBA DICTIONARY ##
+## 📖 FRENCH  ->  MEDUMBA DICTIONARY ##
 
 <img width="1279" height="659" alt="Capture d’écran du 2026-02-26 04-01-22" src="https://github.com/user-attachments/assets/5f1ed17b-7f51-4ebf-b7fa-12c8b95a3d93" />
 
@@ -25,17 +25,8 @@ OR
 - Open the project with your preferred editor (e.g., VSCode)
 
 - If using VSCode, right-click on dictio.html → Open with Live Server to launch the dictionary in your browser.
-
-## Features:
-
-- Enter a French word in the field "Entrez votre mot français"
-
-- Click  "Enter" or "loupe button"
-
-- The translated word will immediately appear at the bottom of the page.
-
-## ### Languages & Technologies:
-
+- 
+ ### Languages & Technologies:
 <div align="left">
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"/>
    <img width="12" />
@@ -44,5 +35,15 @@ OR
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="js logo"/>
    <img width="12" />
 </div>  
+
+## Features:
+
+- Enter your French word in the search box,
+
+- Then click Enter or the magnifying glass 🔎 to the left of "Enter your search here"
+
+- The translated word will immediately appear at the bottom of the page.
+
+
   
   
