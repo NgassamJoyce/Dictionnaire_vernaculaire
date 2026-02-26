@@ -1,17 +1,19 @@
-## FRENCH -> BANGANTE DICTIONARY ##
+## 📖 FRENCH -> MEDUMBA DICTIONARY ##
 
 <img width="1270" height="659" alt="Capture d’écran du 2026-02-25 00-41-34" src="https://github.com/user-attachments/assets/72c84fd8-da77-4f80-a4c3-71363af4f583" />
 
 ## Description:
-This dictionary is designed to help users understand the pronunciation of certain French words in Bangante.
-It is simple, user-friendly, and accessible to everyone.
+This Dictionary is designed to help users improve their knowledge of the Medumba language by providing the pronunciation of same words.
+Through this dictionary, many users will be able to learn the pronunciation and spelling of some French words in Medumba.
+
+It explains the origin of the Medumba language. and details how words are constructed, structured, and how they are pronounced through different tones.
+
+while, About.html provides details and explains the different tones found in the Medumba language, and how to distinguish them within words.
 
 ## Installation:
 - Open your terminal.
 
-- Clone the repository:
-
-- git clone https://github.com/NgassamJoyce/Mon_Dictionnaire.git
+- Clone the repository : git clone https://github.com/NgassamJoyce/Dictionnaire_vernaculaire.git
 
 - Navigate to the project folder, then:
 
@@ -30,9 +32,9 @@ OR
 
 - The translated word will immediately appear at the bottom of the page.
 
-## ### Languages & Technologies:
+### Languages & Technologies:
 
-<div align="left">
+<div align ="left">
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"/>
    <img width="12" />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"/>
@@ -41,4 +43,11 @@ OR
    <img width="12" />
 </div>  
   
-  
+## Features:
+
+- Enter your French word in the search box,
+
+- Then click Enter or the magnifying glass 🔎 to the left of "Enter your search here".
+
+- The translated word will immediately appear at the bottom of the page.
+
